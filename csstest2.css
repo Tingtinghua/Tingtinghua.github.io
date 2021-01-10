@@ -1,0 +1,16 @@
+body {background-color:azure}
+            
+.pos_abs{
+    position:absolute;
+    left:1150px;
+    top:86.5px}
+            
+#tz img{
+    position:absolute;
+    right:450px;
+    top:250px}
+            
+#wu {text-align:center}
+            
+p{font-family: Cambria;
+    font-size:21px}

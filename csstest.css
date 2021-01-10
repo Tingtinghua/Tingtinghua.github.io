@@ -1,0 +1,12 @@
+body {background-color:azure}
+
+p {font-family:Cambria}
+
+#lq {text-align:center}
+
+#tcg img{
+        position:absolute;
+        right:450px;
+        }
+
+.sameline{vertical-align: middle;}
